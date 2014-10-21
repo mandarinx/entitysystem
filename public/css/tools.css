@@ -1,0 +1,14 @@
+.toolbar {
+    position: absolute;
+    left: 0px;
+    background-color: #333;
+}
+
+.toolbar-button {
+    padding: 10px;
+    color: #aaa;
+}
+
+.button-highlight {
+    color: white;
+}

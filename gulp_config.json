@@ -1,0 +1,28 @@
+{
+    "dir": {
+        "deploy": {
+            "root":         "./deploy/"
+        },
+        "src": {
+            "root":         "./src/"
+        }
+    },
+    "pattern": {
+        "all": {
+            "any": "**/*.*",
+            "html": "**/*.html",
+            "js": "**/*.js",
+            "jsx": "**/*.jsx",
+            "json": "**/*.json"
+        },
+        "any": "*.*",
+        "html": "*.html",
+        "js": "*.js",
+        "jsx": "*.jsx",
+        "css": "*.css",
+        "json": "*.json"
+    },
+    "file": {
+        "main": "main.js"
+    }
+}

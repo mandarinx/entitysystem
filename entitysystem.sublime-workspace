@@ -1,0 +1,1756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"enti",
+				"entities"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"get",
+				"getEntity"
+			],
+			[
+				"stuff",
+				"stuff_group"
+			],
+			[
+				"stu",
+				"stuff_group"
+			],
+			[
+				"Tran",
+				"Transform"
+			],
+			[
+				"goto",
+				"gotoEntity"
+			],
+			[
+				"Calculate",
+				"CalculateNewPath"
+			],
+			[
+				"spec",
+				"specialCollider"
+			],
+			[
+				"int",
+				"intValue"
+			],
+			[
+				"walk",
+				"walkState"
+			],
+			[
+				"iden",
+				"identifyThreshold"
+			],
+			[
+				"id",
+				"identify"
+			],
+			[
+				"sp",
+				"special"
+			],
+			[
+				"spe",
+				"specialness"
+			],
+			[
+				"se",
+				"sequences"
+			],
+			[
+				"Fight",
+				"Fighting"
+			],
+			[
+				"stat",
+				"stateID"
+			],
+			[
+				"cal",
+				"CalculatingPath"
+			],
+			[
+				"FSM",
+				"FSMSystem"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"Curr",
+				"CurrentState"
+			],
+			[
+				"PlayerW",
+				"PlayerWalkingState"
+			],
+			[
+				"Add",
+				"AddTransition"
+			],
+			[
+				"pat",
+				"pathCalc"
+			],
+			[
+				"State",
+				"StateID"
+			],
+			[
+				"excl",
+				"excludes"
+			],
+			[
+				"prefab",
+				"prefabs"
+			],
+			[
+				"Rand",
+				"RandomizedCoords"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"coord",
+				"coords"
+			],
+			[
+				"coor",
+				"coords"
+			],
+			[
+				"coo",
+				"coords"
+			],
+			[
+				"posi",
+				"positionerHeight"
+			],
+			[
+				"segS",
+				"segSizeWidth"
+			],
+			[
+				"seg",
+				"segWidth"
+			],
+			[
+				"Po",
+				"Positioner"
+			],
+			[
+				"Iden",
+				"Identify"
+			],
+			[
+				"Plant",
+				"PlantType"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"SetA",
+				"SetArea"
+			],
+			[
+				"spawn",
+				"spawned"
+			],
+			[
+				"met",
+				"metalContainer"
+			],
+			[
+				"metal",
+				"metalContainer"
+			],
+			[
+				"mesh",
+				"meshRenderer"
+			],
+			[
+				"Cu",
+				"Current"
+			],
+			[
+				"Current",
+				"currentCharacterIndex"
+			],
+			[
+				"ch",
+				"character"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"chara",
+				"character"
+			],
+			[
+				"Clear",
+				"ClearDelegatesFor"
+			],
+			[
+				"curr",
+				"currentCharacterIndex"
+			],
+			[
+				"Chara",
+				"Character"
+			],
+			[
+				"Char",
+				"Character"
+			],
+			[
+				"c",
+				"currentCharacterIndex"
+			],
+			[
+				"charact",
+				"characters"
+			],
+			[
+				"Player",
+				"PlayerStats"
+			],
+			[
+				"OnS",
+				"OnSwitchPanel"
+			],
+			[
+				"pan",
+				"panelWidth"
+			],
+			[
+				"Vec",
+				"Vector3	x, y, z"
+			],
+			[
+				"panels",
+				"panelsRoot"
+			],
+			[
+				"PlayerS",
+				"PlayerState"
+			],
+			[
+				"Pla",
+				"PlayerState"
+			],
+			[
+				"EnergyStatio",
+				"EnergyStation"
+			],
+			[
+				"Raycast",
+				"RaycastHit"
+			],
+			[
+				"Ener",
+				"EnergyUsage"
+			],
+			[
+				"String",
+				"StringProperty"
+			],
+			[
+				"Tes",
+				"Testing"
+			],
+			[
+				"Pr",
+				"Property"
+			],
+			[
+				"start",
+				"startPos"
+			],
+			[
+				"star",
+				"startPos"
+			],
+			[
+				"ener",
+				"energySlider"
+			],
+			[
+				"On",
+				"OnRegenerate"
+			],
+			[
+				"Energy",
+				"EnergyStationOptions"
+			],
+			[
+				"size",
+				"sizeFactor"
+			],
+			[
+				"reg",
+				"regeneration"
+			],
+			[
+				"Pl",
+				"PlayerStats"
+			],
+			[
+				"en",
+				"energy"
+			],
+			[
+				"energy",
+				"energyStations"
+			],
+			[
+				"ene",
+				"energyStations"
+			],
+			[
+				"EnergyS",
+				"energyStationsLabel"
+			],
+			[
+				"Play",
+				"PlayerInventory"
+			],
+			[
+				"SpaceS",
+				"SpaceStationOptions"
+			],
+			[
+				"Res",
+				"ResourceType"
+			],
+			[
+				"meta",
+				"metalPrefab"
+			],
+			[
+				"Reset",
+				"ResetCursor"
+			],
+			[
+				"SetP",
+				"SetPos"
+			],
+			[
+				"Base",
+				"BaseHealth"
+			],
+			[
+				"base",
+				"baseHealth"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"play",
+				"playerHitPoints"
+			],
+			[
+				"inven",
+				"inventoryHealth"
+			],
+			[
+				"Inven",
+				"InventoryHealth"
+			],
+			[
+				"Inve",
+				"InventoryHealth"
+			],
+			[
+				"hit",
+				"hitPoints"
+			],
+			[
+				"hitPo",
+				"HitPoints"
+			],
+			[
+				"anim",
+				"animal"
+			],
+			[
+				"GetCo",
+				"GetComponent	type"
+			],
+			[
+				"panel",
+				"panelName"
+			],
+			[
+				"MoveTo",
+				"MoveToRaycast"
+			],
+			[
+				"GetC",
+				"GetComponent	type"
+			],
+			[
+				"gameObject",
+				"GameObject"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"aw",
+				"awards"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"_pro",
+				"_proj_image"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"getPro",
+				"getProp"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ord",
+				"ordering"
+			],
+			[
+				"about",
+				"about_image"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"boo",
+				"bookmarks"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"got",
+				"got_proj"
+			],
+			[
+				"blo",
+				"blog_post"
+			],
+			[
+				"a",
+				"accessToken"
+			],
+			[
+				"cd",
+				"cd_step"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/client/states/game.js",
+			"settings":
+			{
+				"buffer_size": 838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/client/factory.js",
+			"settings":
+			{
+				"buffer_size": 436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/client/entities/entity.js",
+			"settings":
+			{
+				"buffer_size": 591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/entitysystem/main.js",
+			"settings":
+			{
+				"buffer_size": 2370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/entities.json",
+			"settings":
+			{
+				"buffer_size": 830,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 660.0
+	},
+	"console":
+	{
+		"height": 127.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/src",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/server",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/public",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/data"
+	],
+	"file_history":
+	[
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/server/errors.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/server/router.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/package.json",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/gulpfile.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/src/client/demo.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/public/css/FontAwesome.otf",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/src/client/factory.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/src/client/main.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/server/main.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/src/client/states/preloader.js",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/public/css/game.css",
+		"/Users/mandarin/Projects/Games/Entity System/entitysystem.github.com/README.md",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Interfaces/IEntity.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/PivotScaleInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/PositionerInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/TransformInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/PivotOffset.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Navigation.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Characters/Character.cs",
+		"/Users/mandarin/Documents/utdrag fra ordbok.txt",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerFighting.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/PlayerInventory.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/PlayerCollisions.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Core/Properties.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Characters/CharacterManager.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Sheets/CharacterSheet.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/SpaceStationUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/PanelSwitcher.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/EnergyStation.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Resource.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/HostileAnimal.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Spaceship.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerWalking.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/GotoCoordinate.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Interfaces/IClickable.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Spawner/HeightSpawner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Editor/PathologicalGames/PoolManager/PreRuntimePoolItemInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Editor/PathologicalGames/Common/PGEditorUtils.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/InputHandler.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Positioner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/FSMState.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/Fight.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/CalculatePath.cs",
+		"/Users/mandarin/Clients/DigiPilot/Pilot/MarkusPilot/Assets/Scripts/Characters/Markus/MarkusNavAgent.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Entity.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/Player.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerIdle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/PlayerStatsUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/FSMSystem.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Plugins/Simple Mesh Combine/Scripts/Editor/SimpleMeshCombineEditor.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Plugins/Simple Mesh Combine/Scripts/SimpleMeshCombine.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/Plants.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Plugins/Simple Mesh Combine/Scripts/Editor/MeshCombinerCore.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/UI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Tests/Music mixer/Sequence.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Tests/Music mixer/Metronome.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Tests/Music mixer/Mixer.cs",
+		"/Users/mandarin/Clients/DigiPilot/Pilot/MarkusPilot/Assets/Scripts/Characters/Markus/Markus.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/MoveToRaycast.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/EnergyStationUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/UIPanel.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/NavAgent.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/CorePropertyDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/InputHandler.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Agent.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/Spawner/AreaSpawner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/EnergyStations.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/P/Player.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/PlayerCollisions.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/PlayerInventory.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/P/GotoCoordinate.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Player/GotoCoordinate.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Player/Player.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Player.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/GotoCoordinate.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Plant.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/Positioner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/HeightSpawner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/Vegetation.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/Resources.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/Spawner/ListSpawner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/SpawnerDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/Spawner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controller/HostileAnimals.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/MinMaxDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/SpaceStation.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Properties/Property.cs",
+		"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/server/controller/highscore_response.js",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/PlayerStats.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/MinMaxAttribute.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/MinMaxAttribute.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/FloatRangeDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/FloatRangeAttribute.cs",
+		"/Users/mandarin/Desktop/index.html",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/FloatRange.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/PlayerInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/CharacterDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Characters/CharacterType.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Sheets/SpaceStationSheet.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/CharacterSheetUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/PanelSwitcher.cs",
+		"/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/UI/UI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/UI/UIPanel.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Player.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/PlayerInventory.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Controller/EnergyStations.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/MoveToRaycast.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Behaviours/SpaceStation.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/UI/Panel/SpaceStationUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/UI/Panel/EnergyStationUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Behaviours/EnergyStation.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/PlayerCollisions.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/UI/Panel/Fight.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/PlayerStats.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Behaviours/HostileAnimal.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Controller/InputHandler.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Shaders/Distance.shader",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Behaviours/Agent.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/UI/Panel/PlayerStatsUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Minimap.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/UI/Panel/PlayerStats.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Resource.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/HostileAnimal.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Controller/PlayerInventory.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Controller/HostileAnimals.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts/Controller/Resources.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/EnergyUsage.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts",
+			"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app",
+			"",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/*.styl",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk",
+			"",
+			"/Users/mandarin/Downloads/enhetsregisteret.csv",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/admin/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/wptest/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/game",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app/game",
+			"gulp-config.json",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app/game",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app/admin",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/app/admin",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/node_modules/react-bootstrap",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app",
+			"/Users/mandarin/Projects/Games/Mountain King/src/js",
+			"/Users/mandarin/Projects/DigiPilot/Pilot/MarkusPilot/Assets/Scripts/",
+			"/Users/mandarin/Projects/DigiPilot/Pilot/MarkusPilot/Assets/",
+			"/Users/mandarin/Projects/DigiPilot/Pilot/MarkusPilot/Assets/Scripts",
+			"/Users/mandarin/Projects/Games/Princess Hunter/PrincessRepo/Assets/Scripts",
+			"/Users/mandarin/Downloads/broforce/assembly",
+			"Hero.cs",
+			"/Users/mandarin/Downloads/broforce/assembly",
+			"",
+			"/Users/mandarin/Projects/Games/Princess Hunter/PrincessRepo/Assets/Scripts/Dev/MyBezier.cs",
+			"/Users/mandarin/Projects/Games/Princess Hunter/PrincessRepo/Assets/Scripts",
+			"/Users/mandarin/Projects/Hyper/Albert/AlbertRepo/Assets/Scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"index",
+			"id",
+			"tags",
+			"definition",
+			"chest",
+			"stuff",
+			"type",
+			"Debug.Log",
+			"scale",
+			"pivotScale",
+			"positioner",
+			"Positioner",
+			"entity",
+			"self",
+			"false",
+			"renderer",
+			"mask",
+			"walking",
+			"interactives",
+			"Current",
+			"advanced",
+			"D.",
+			"stopTime",
+			"OnStateChange",
+			"fo",
+			"fight",
+			"PlayerIdle",
+			"pathCalc",
+			"CalculatePath",
+			"agent",
+			"navAgent",
+			"MakeFSM",
+			"CalculatePath",
+			"manager",
+			"PlayerWalking",
+			"pathCalc",
+			"CalculatePath",
+			"PlayerWalkingState",
+			"CalculatePath",
+			"navAgent",
+			"NavMeshAgent",
+			"NavAgent",
+			"s",
+			"CalculatePath",
+			"PathCalculateState",
+			"fsm",
+			"FollowPathState",
+			"navID",
+			"coord",
+			"CalculatePath",
+			"na",
+			"mr",
+			"MeshRenderer",
+			"player",
+			"D",
+			"list",
+			"Spawn",
+			"Spawner",
+			"collider",
+			"segSizeWidth",
+			"int",
+			"mask",
+			"ResourceType",
+			"EnergyUsage",
+			"spawner",
+			"propName",
+			"container",
+			"parent",
+			"where",
+			"transform",
+			"metal",
+			"self",
+			"UseHealth",
+			"UIPanels",
+			"player",
+			"TODO",
+			"Character",
+			"Current",
+			"OnUpdate",
+			"character",
+			"num",
+			"AddHealth",
+			"character",
+			"Object",
+			"System",
+			"character",
+			"ClearDelegatesFor",
+			"Int",
+			"i2",
+			"i1",
+			"DBBool",
+			"stats",
+			"EnergyUsage",
+			"self",
+			"Player.Get",
+			"UpdateCharacterIndex",
+			"Range",
+			"FloatRangeAttribute",
+			"PlayerStats",
+			"self",
+			"static",
+			"PlayerStats",
+			"characters",
+			"EnergyStationOptions",
+			"IsOut",
+			"moveToRaycast",
+			"player",
+			"target",
+			"enabled",
+			"transform",
+			"EnergyUsage",
+			"UIPanels",
+			"EnergyUsage",
+			"override",
+			"UseEnergy",
+			"PlayerStats",
+			"sizeFactor",
+			"statsUI",
+			"stats",
+			"value",
+			"public",
+			"inventoryEnergy",
+			"private",
+			"inventoryEnergyStations",
+			"energyStationCost",
+			"powerStations",
+			"Show(",
+			"type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"'game/gsap'",
+			"\"",
+			"util/",
+			"util/dom",
+			"'manager/weapons'",
+			"manager/groups",
+			"require('manager/explosions",
+			"require('manager/projectiles",
+			"MK",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/client/states/game.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								835,
+								835
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/client/factory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/client/entities/entity.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/entitysystem/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1615,
+								1615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 497.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "data/entities.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"project": "entitysystem.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"entities",
+				"src/client/entities/entity.js"
+			],
+			[
+				"da",
+				"data/entities.json"
+			],
+			[
+				"fac",
+				"src/client/factory.js"
+			],
+			[
+				"main",
+				"src/entitysystem/main.js"
+			],
+			[
+				"gam",
+				"src/client/states/game.js"
+			],
+			[
+				"demo",
+				"src/client/demo.js"
+			],
+			[
+				"calc",
+				"FSM/States/CalculatePath.cs"
+			],
+			[
+				"in",
+				"Controllers/InputHandler.cs"
+			],
+			[
+				"walk",
+				"FSM/States/PlayerWalking.cs"
+			],
+			[
+				"pl",
+				"FSM/States/PlayerIdle.cs"
+			],
+			[
+				"char",
+				"Characters/Character.cs"
+			],
+			[
+				"ie",
+				"Interfaces/IEntity.cs"
+			],
+			[
+				"ener",
+				"Behaviours/EnergyStation.cs"
+			],
+			[
+				"res",
+				"Behaviours/Resource.cs"
+			],
+			[
+				"host",
+				"Behaviours/HostileAnimal.cs"
+			],
+			[
+				"coll",
+				"Playa/PlayerCollisions.cs"
+			],
+			[
+				"ien",
+				"Interfaces/IEntity.cs"
+			],
+			[
+				"fsmst",
+				"FSM/FSMState.cs"
+			],
+			[
+				"icli",
+				"Interfaces/IClickable.cs"
+			],
+			[
+				"pla",
+				"Playa/Player.cs"
+			],
+			[
+				"charm",
+				"Characters/CharacterManager.cs"
+			],
+			[
+				"chara",
+				"Characters/Character.cs"
+			],
+			[
+				"playr",
+				"Playa/Player.cs"
+			],
+			[
+				"ui",
+				"UI/UI.cs"
+			],
+			[
+				"cham",
+				"Characters/CharacterManager.cs"
+			],
+			[
+				"move",
+				"MoveToRaycast.cs"
+			],
+			[
+				"pan",
+				"UI/Panel/Fight.cs"
+			],
+			[
+				"mo",
+				"MoveToRaycast.cs"
+			],
+			[
+				"plin",
+				"Playa/PlayerInventory.cs"
+			],
+			[
+				"chman",
+				"Characters/CharacterManager.cs"
+			],
+			[
+				"cha",
+				"Characters/Character.cs"
+			],
+			[
+				"play",
+				"UI/Panel/PlayerStatsUI.cs"
+			],
+			[
+				"agen",
+				"Behaviours/Agent.cs"
+			],
+			[
+				"player",
+				"Player.cs"
+			],
+			[
+				"are",
+				"Controller/Spawner/AreaSpawner.cs"
+			],
+			[
+				"draw",
+				"Editor/CorePropertyDrawer.cs"
+			],
+			[
+				"pr",
+				"Core/Properties.cs"
+			],
+			[
+				"pro",
+				"Core/Properties.cs"
+			],
+			[
+				"inve",
+				"PlayerInventory.cs"
+			],
+			[
+				"uip",
+				"UI/UIPanel.cs"
+			],
+			[
+				"prop",
+				"Core/Properties.cs"
+			],
+			[
+				"shee",
+				"UI/Sheets/CharacterSheet.cs"
+			],
+			[
+				"playerst",
+				"PlayerStats.cs"
+			],
+			[
+				"stats",
+				"PlayerStats.cs"
+			],
+			[
+				"space",
+				"UI/Sheets/SpaceStationSheet.cs"
+			],
+			[
+				"inven",
+				"PlayerInventory.cs"
+			],
+			[
+				"u",
+				"UI/UI.cs"
+			],
+			[
+				"st",
+				"UI/Panel/PlayerStatsUI.cs"
+			],
+			[
+				"mov",
+				"MoveToRaycast.cs"
+			],
+			[
+				"figh",
+				"UI/Panel/Fight.cs"
+			],
+			[
+				"resou",
+				"Resource.cs"
+			],
+			[
+				"anim",
+				"HostileAnimal.cs"
+			],
+			[
+				"energyst",
+				"Controller/EnergyStations.cs"
+			],
+			[
+				"men",
+				"app/views/partials/menu.hbs"
+			],
+			[
+				"we",
+				"app/web.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"ie8",
+				"app/views/partials/ie8message.hbs"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"rese",
+				"public/reset.css"
+			],
+			[
+				"ma",
+				"app/views/layouts/main.hbs"
+			],
+			[
+				"post",
+				"postinstall.js"
+			],
+			[
+				"foo",
+				"app/views/partials/footer.hbs"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"menu",
+				"app/views/partials/menu.hbs"
+			],
+			[
+				"proj",
+				"app/views/projects.hbs"
+			],
+			[
+				"err",
+				"app/errors.js"
+			],
+			[
+				"web",
+				"app/web.js"
+			],
+			[
+				"de",
+				"dev.js"
+			],
+			[
+				"con",
+				"config.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"en",
+				".env"
+			],
+			[
+				"dev",
+				"dev.js"
+			],
+			[
+				"animat",
+				"app/game/animator.js"
+			],
+			[
+				"listen",
+				"app/game/animationlistener.js"
+			],
+			[
+				"game",
+				"app/game/play/game.js"
+			],
+			[
+				"pie",
+				"app/game/play/piece.js"
+			],
+			[
+				"plh",
+				"app/game/view/play.hbs"
+			],
+			[
+				"score",
+				"app/game/play/score.js"
+			],
+			[
+				"playre",
+				"app/game/page/playresult.js"
+			],
+			[
+				"congam",
+				"app/server/controller/game.js"
+			],
+			[
+				"simpl",
+				"app/game/simplepubsub.js"
+			],
+			[
+				"page",
+				"app/game/page/play.js"
+			],
+			[
+				"timer",
+				"app/game/play/timer.js"
+			],
+			[
+				"med",
+				"app/game/style/mediaqueries.styl"
+			],
+			[
+				"kpmg",
+				"app/game/style/kpmgsidebar.styl"
+			],
+			[
+				"homst",
+				"app/game/style/home.styl"
+			],
+			[
+				"hbs",
+				"app/game/view/dnfooter.hbs"
+			],
+			[
+				"ga",
+				"app/server/views/game_main.hbs"
+			],
+			[
+				"homhb",
+				"app/game/view/home.hbs"
+			],
+			[
+				"soc",
+				"app/game/social.js"
+			],
+			[
+				"com",
+				"app/game/view/company.hbs"
+			],
+			[
+				"plreh",
+				"app/game/view/playresult.hbs"
+			],
+			[
+				"conhig",
+				"app/server/controller/highscore.js"
+			],
+			[
+				"hgh",
+				"app/game/highscores.js"
+			],
+			[
+				"higre",
+				"app/server/controller/highscore_response.js"
+			],
+			[
+				"auto",
+				"app/game/autocomplete.js"
+			],
+			[
+				"comp",
+				"app/game/page/company.js"
+			],
+			[
+				"conf",
+				"app/server/client-config.json"
+			],
+			[
+				"plre",
+				"app/game/page/playresult.js"
+			],
+			[
+				"kpmf",
+				"app/game/view/kpmgfooter.hbs"
+			],
+			[
+				"kpmshb",
+				"app/game/view/kpmgsidebar.hbs"
+			],
+			[
+				"sentr",
+				"app/common/sentry.js"
+			],
+			[
+				"gama",
+				"app/game/main.js"
+			],
+			[
+				"api",
+				"app/common/api.js"
+			],
+			[
+				"gamel",
+				"app/game/play/gameloader.js"
+			],
+			[
+				"rout",
+				"app/server/routes.js"
+			],
+			[
+				"soci",
+				"app/game/social.js"
+			],
+			[
+				"hom",
+				"app/game/style/home.styl"
+			],
+			[
+				"cli",
+				"app/server/client-config.json"
+			],
+			[
+				"maj",
+				"app/game/main.js"
+			],
+			[
+				"mainsty",
+				"app/game/style/main.styl"
+			],
+			[
+				"kpms",
+				"app/game/page/kpmgsidebar.js"
+			],
+			[
+				"home",
+				"app/game/page/home.js"
+			],
+			[
+				"edit",
+				"app/admin/form/edit_game.jsx"
+			],
+			[
+				"conga",
+				"app/server/controller/game.js"
+			],
+			[
+				"routes",
+				"app/game/router.js"
+			],
+			[
+				"mopl",
+				"app/server/model/player.js"
+			],
+			[
+				"conhi",
+				"app/server/controller/highscore.js"
+			],
+			[
+				"conpl",
+				"app/server/controller/player.js"
+			],
+			[
+				"form",
+				"app/admin/form/add_games.jsx"
+			],
+			[
+				"radio",
+				"app/admin/component/radiogroup.jsx"
+			],
+			[
+				"admgame",
+				"app/admin/form/edit_game.jsx"
+			],
+			[
+				"tim",
+				"app/game/play/timer.js"
+			],
+			[
+				"gaga",
+				"app/game/play/game.js"
+			],
+			[
+				"serma",
+				"app/server/main.js"
+			],
+			[
+				"plj",
+				"app/game/page/play.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"DoChar",
+				"DoCharge"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

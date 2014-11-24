@@ -6,10 +6,13 @@ module.exports = function() {
     var router = express.Router();
 
     router
-        // .get('/:file?', function(req, res, next) {
-        //     var file = req.params.file ? req.params.file : 'index.html';
-        //     res.sendFile(path.resolve('./public/', file));
-        // })
+        .get('/js/:file', function(req, res, next) {
+            res.sendFile(path.resolve('./build/', req.params.file));
+        })
+
+        .get('/data/:file', function(req, res, next) {
+            res.sendFile(path.resolve('./data/', req.params.file));
+        })
 
         .get('/phaser/:file', function(req, res) {
             res.sendFile(path.resolve('./node_modules/phaser/build/', req.params.file));

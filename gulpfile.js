@@ -1,4 +1,5 @@
 var gulp            = require('gulp');
+var connect         = require('gulp-connect');
 var browserify      = require('browserify');
 var aliasify        = require('aliasify');
 var source          = require('vinyl-source-stream');
@@ -8,10 +9,10 @@ var del             = require('del');
 var pkg             = require('./package.json');
 var config          = require('./gulp_config.json');
 
-var dir = config.dir;
-var pattern = config.pattern;
-var file = config.file;
-var production = process.env.NODE_ENV === 'production';
+var dir             = config.dir;
+var pattern         = config.pattern;
+var file            = config.file;
+var production      = process.env.NODE_ENV === 'production';
 
 var argv = yargs
     .default('config', 'config')
@@ -19,33 +20,34 @@ var argv = yargs
 
 var aliasify_configured = aliasify.configure({
     aliases: {
-        // 'rsvp':         './node_modules/rsvp/dist/commonjs/main.js',
-        // 'comp':         'tools/components'
+        'entitysystem':     dir.src.entitysystem,
+        'client':           dir.src.client
     },
     verbose: false
 });
 
 var browserify_options = {
-    debug: true,
-    basedir: __dirname
+    debug:      !production,
+    basedir:    __dirname
 };
 
 function scripts(source_file, source_dir, target_file) {
-    var bundler, rebundle;
-    bundler = browserify(source_file, browserify_options);
+    var bundler;
+    var rebundle;
 
+    bundler = browserify(source_dir + source_file, browserify_options);
     bundler.transform(aliasify_configured);
 
     bundler.plugin(remapify, [{
-        src: pattern.all.js,
+        src:    pattern.all.js,
         expose: '',
-        cwd: source_dir
+        cwd:    source_dir
     }]);
 
     rebundle = function() {
-        var stream = bundler.bundle({debug: !production})
+        var stream = bundler.bundle()
             .pipe(source(target_file))
-            .pipe(gulp.dest(dir.deploy.js))
+            .pipe(gulp.dest(dir.deploy.root))
             .pipe(connect.reload());
 
         return stream;
@@ -60,6 +62,15 @@ gulp.task('clean', function (cb) {
     del([dir.deploy.root], cb);
 });
 
-gulp.task('default', ['clean'], function() {
-    scripts(file.main, dir.src.root, dir.deploy.root);
+// gulp.task('entitysystem', function (cb) {
+//     return scripts(file.main, dir.src.entitysystem, 'entitysystem.js');
+// });
+
+gulp.task('client', function (cb) {
+    return scripts(file.main, dir.src.client, 'client.js');
+});
+
+gulp.task('default', ['clean', 'client'], function() {
+    // gulp.watch(dir.src.entitysystem + pattern.all.any, ['entitysystem']);
+    gulp.watch(dir.src.root + pattern.all.any, ['client']);
 });
